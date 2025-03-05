@@ -17,5 +17,5 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanFernandes1&layout=compact&theme=dark&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NathanFernandes1&theme=dark&locale=pt-br"/>
 </div>
